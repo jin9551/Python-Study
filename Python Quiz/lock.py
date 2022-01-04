@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 #lock.py written by Jinha Jeong
-#pep605
 
 
 import re
